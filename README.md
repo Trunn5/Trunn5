@@ -1,4 +1,4 @@
-## :wave: Hey there👋 I'm Dmitry
+## :wave: Hey there! I'm Dmitry
 
 Web Developer and a CS student at Innopolis University.
 
