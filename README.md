@@ -1,11 +1,5 @@
-## :wave: Hey there! I'm Dmitry
+Computer Science student at Innopolis University.
 
-Web Developer and a CS student at Innopolis University.
+Scala Developer at Tbank.
 
-### Social networks
-
-<a href="https://t.me/prosvirkin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="@kolayne" height="40" width="40" /></a>
-
-### About me
-
-Scala dev at Yandex
+<a href="https://t.me/prosvirkin" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/960px-Telegram_blue_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)" height="40" width="40" /></a>
